@@ -1,3 +1,7 @@
 [build-system]
-requires = ["setuptools>=64", "wheel"]     # 构建时所需的工具
-build-backend = "setuptools.build_meta"    # 构建系统后端
+requires = [
+    "setuptools>=64",
+    "wheel",
+    "build"  # ✅ 推荐加入，用于 python -m build 命令
+]
+build-backend = "setuptools.build_meta"
