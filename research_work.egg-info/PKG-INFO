@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: research_work
+Version: 0.1
+Summary: A sample Python package for local usage
+Author: NY no dorami
+Author-email: shi.chen8866@gmail.com
+Requires-Python: >=3.8
+
+This package is intended for local use only.
