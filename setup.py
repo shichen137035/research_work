@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="research_work",  # 包名（确保在 PyPI 上唯一）
-    version="0.1.0",  # 建议使用语义化版本号
+    version="0.1.1",  # 建议使用语义化版本号
     author="NY no dorami",
     author_email="shi.chen8866@gmail.com",
     description="A Python package for research tools including algorithms and preprocessing.",
